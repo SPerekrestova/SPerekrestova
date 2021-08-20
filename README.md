@@ -1,7 +1,7 @@
 ### Hi, I'm Svetlana 👋
 
 <p>Ex Sr. Application Support, Team Leader.</p>
-<p>Jr. Software Engineer.</p>
+<p>Software Engineer.</p>
 <p>Currently looking for opportunities to grow as a Software Engineer.</p>
 
 <p align='center'>
