@@ -2,7 +2,6 @@
 
 <p>Ex Sr. Application Support, Team Leader.</p>
 <p>Software Engineer.</p>
-<p>Currently looking for opportunities to grow as a Software Engineer.</p>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=SPerekrestova&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=SPerekrestova&show_icons=true&count_private=true"/></a>
