@@ -1,7 +1,6 @@
 ### Hi, I'm Svetlana 👋
 
-<p>Ex Sr. Application Support, Team Leader.</p>
-<p>Software Engineer.</p>
+<p>Senior Software Engineer.</p>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=SPerekrestova&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=SPerekrestova&show_icons=true&count_private=true"/></a>
@@ -16,18 +15,17 @@
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:sherlock.nacht@gmail.com'>sherlock.nacht@gmail.com</a>
+   📫 How to reach me: <a href='mailto:svetlana.perekrestova2@gmail.com'>svetlana.perekrestova2@gmail.com</a>
 </p>
 
 ### Key points
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)  :computer:
-*   From students to Senior Application Support in less than 2 years  :muscle:
-*   Still studying Information Systems & Technologies at University :mortar_board:
+*   Currently working in [UseTech](https://usetech.com/)  :computer:
+*   Got senior position together with diploma  :muscle:
 
 ## 🛠 Technical Stack
-*   Java
-*   MySQL, PostgreSQL
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
+*   Java 8 / Java 11
+*   Oracle, PostgreSQL
+*   Spring Boot and modules
 *   GitHub/GitLab/Bitbucket
 *   Docker, Jenkins, Atlassian
 *   User/Application support, Knowledge Management, Software Maintenance, Customer Service, Service Delivery Management;
