@@ -23,11 +23,12 @@
 *   Got senior position together with diploma  :muscle:
 
 ## 🛠 Technical Stack
-*   Java 8 / Java 11
+*   Java 8, Java 11
 *   Oracle, PostgreSQL
 *   Spring Boot and modules
-*   GitHub/GitLab/Bitbucket
-*   Docker, Jenkins, Atlassian
+*   Building RESTful WebServices
+*   Kafka, Rabbit MQ
+*   Docker, Jenkins and other CI/CD tools 
 *   User/Application support, Knowledge Management, Software Maintenance, Customer Service, Service Delivery Management;
 
 ### My opensource projects
