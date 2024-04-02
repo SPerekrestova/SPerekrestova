@@ -1,11 +1,6 @@
 ### Hi, I'm Svetlana 👋
 
-<p>Senior Software Engineer.</p>
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=SPerekrestova&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=SPerekrestova&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/SPerekrestova/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPerekrestova&layout=compact"/></a>
-</p>
+<p>Senior Software Engineer</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/svetlana-perekrestova/">
@@ -19,7 +14,7 @@
 </p>
 
 ### Key points
-*   Currently working in [UseTech](https://usetech.com/)  :computer:
+*   Currently working in [RingCentral](https://www.ringcentral.com/)  :computer:
 *   Got senior position together with diploma  :muscle:
 
 ## 🛠 Technical Stack
