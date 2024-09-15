@@ -1,6 +1,6 @@
 ### Hi, I'm Svetlana 👋
 
-<p>Senior Software Engineer</p>
+<p>Software Engineer</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/svetlana-perekrestova/">
@@ -18,11 +18,11 @@
 *   Got senior position together with diploma  :muscle:
 
 ## 🛠 Technical Stack
-*   Java 8, Java 11
-*   Oracle, PostgreSQL
-*   Spring Boot and modules
+*   Java
+*   MySQL, PostgreSQL
+*   Spring, Spring Boot
 *   Building RESTful WebServices
-*   Kafka, Rabbit MQ
+*   Kafka, Active MQ
 *   Docker, Jenkins and other CI/CD tools 
 *   User/Application support, Knowledge Management, Software Maintenance, Customer Service, Service Delivery Management;
 
