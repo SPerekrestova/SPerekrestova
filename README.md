@@ -24,7 +24,7 @@
 
 ## 📫 How to reach me:
 <p>
-     <a href="mailto:svetlana.perekrestova2@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+     <a href="mailto:svetlana.perekrestova2@gmail.com (mailto:svetlana.perekrestova2@gmail.com)"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/svetlana-perekrestova"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/S_P_va"><img src="https://img.shields.io/badge/Telegram-S_p_va-blue"/></a>
 </p>
