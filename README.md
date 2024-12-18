@@ -41,6 +41,10 @@
 - [Telegram](https://t.me/S_P_va)
 - [Email](mailto:svetlana.perekrestova2@gmail.com)
 
+## LeetCode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/SPerekrestova?ext=heatmap)
+
 ## 🏆 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPerekrestova&layout=compact&theme=radical)
