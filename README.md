@@ -23,15 +23,15 @@
 ### Infrastructure
 - **DevOps:** Docker, Kubernetes, Jenkins
 - **Tools:** Git, Maven
-- **Architecture:** Microservices
+- **Architecture:** Microservices, monolith 
 
 ### Data Science & AI
 - **Python Stack:** Pandas, NumPy, SciPy
-- **AI/ML:** Machine Learning, Prompt Engineering
+- **AI/ML:** Machine Learning, natural language processing, prompt Engineering
 
 ## 🌟 Projects
 
-- [MedsRecognition](https://github.com/SPerekrestova/MedsRecognition): A cool OCR tool that scans prescriptions and tells you what meds you're taking. Uses EasyOCR and RxNav to figure out the ingredients.
+- [MedsRecognition](https://github.com/SPerekrestova/MedsRecognition): Provides a powerful medicine pack analysis using ML and NLP to recognize active ingredients and brand names accurately.
 - [CodingRecipes](https://github.com/SPerekrestova/coding-recipes): A collection of coding recipes for common algorithms and data structures.
 - [GmailCleaner](https://github.com/SPerekrestova/GmailCleaner): Helps you automatically unsubscribe from junk emails in your Gmail account.
 
