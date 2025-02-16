@@ -31,7 +31,7 @@
 
 ## 🌟 Projects
 
-- [MedsRecognition](https://github.com/SPerekrestova/MedsRecognition): Provides a powerful medicine pack analysis using ML and NLP to recognize active ingredients and brand names accurately.
+- [Pill Checker](https://github.com/SPerekrestova/pill_checker): Provides a powerful medicine pack analysis using ML and NLP to recognize active ingredients and brand names accurately.
 - [CodingRecipes](https://github.com/SPerekrestova/coding-recipes): A collection of coding recipes for common algorithms and data structures.
 - [GmailCleaner](https://github.com/SPerekrestova/GmailCleaner): Helps you automatically unsubscribe from junk emails in your Gmail account.
 
@@ -47,9 +47,9 @@
 
 <!-- ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPerekrestova&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPerekrestova&layout=compact&theme=radical) -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 ![SPerekrestova's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPerekrestova&show_icons=true&theme=radical) -->
 
