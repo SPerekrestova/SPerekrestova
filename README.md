@@ -1,20 +1,31 @@
 # Svetlana Perekrestova
+Backend Software Engineer • AI/LLM in Production • Amsterdam
 
-Software Engineer specializing in backend systems and ML applications for healthcare.
+## About
+I build AI-enabled backend services end to end: data pipelines, LLM/TTS integrations, production APIs, and the infra to run them reliably at scale.
 
-## Tech Stack
-- **Backend**: Java, Spring Boot, REST APIs  
-- **Data**: PostgreSQL, Redis, AWS services
-- **Infrastructure**: Docker, Kubernetes
-- **AI/ML**: Python, NLP, Prompt Engineering
+## AI/ML stack
+- LLM: OpenAI APIs, shared TTS wrapper
+- NLP: Python (SciSpacy, spaCy pipelines), RxNorm mapping
+- Serving: FastAPI/Flask (Python), Go services; REST/WebSockets
+- Data: PostgreSQL, Redis; JSON content catalogs
+- Infra: AWS, Docker, Kubernetes, Helm, GitHub Actions; Shell-based infra repo
+- Testing: Unit/integration, API and performance suites; code reviews
 
-## Key Contributions
-- Building scalable systems with Java/Spring
-- ML-powered healthcare tools
-- Active contributor to lifter-ai projects
-- Private stack development
+## Core stack
+- Languages: Python, Go, Java, Kotlin
+- Backend: Spring Boot, Ktor, Go; REST/WebSockets
+- Messaging/Integration: Kafka, ActiveMQ
+- Cloud/Infra: AWS, Docker, Kubernetes, Helm, CI/CD
+- Data: PostgreSQL, Redis, DynamoDB
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/svetlana-perekrestova) • [Email](mailto:svetlana.perekrestova2@gmail.com)
+## Selected projects
+- [Pill Checker](https://github.com/SPerekrestova/pill_checker) (Python, ML/NLP): medicine pack analysis (ingredients/brands)
+- [BiomedNER](https://github.com/SPerekrestova/BiomedNER) (SciSpacy + RxNorm): biomedical NER and normalization pipeline
+- [github-knowledge-vault](https://github.com/SPerekrestova/github-knowledge-vault) (TypeScript): org knowledge hub for docs, diagrams, API collections
+- [GmailCleaner](https://github.com/SPerekrestova/GmailCleaner) (Python): automated unsubscribe with NLP parsing
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SPerekrestova?ext=heatmap)
+
+## Contacts
+
+[Linkedin](https://www.linkedin.com/in/svetlana-perekrestova) 
