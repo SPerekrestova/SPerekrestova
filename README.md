@@ -1,31 +1,13 @@
 # Svetlana Perekrestova
-Backend Software Engineer • AI/LLM in Production • Amsterdam
+Currently residing in Amsterdam
 
 ## About
-I build AI-enabled backend services end to end: data pipelines, LLM/TTS integrations, production APIs, and the infra to run them reliably at scale.
+I'm a corporate Java engineer with over 7 years of experience. I am passionate about becoming language-agnostic and developing modern AI-powered tools.
+To achieve this, I'm exploring different programming languages and approaches to create a modern tool.
 
-## AI/ML stack
-- LLM: OpenAI APIs, shared TTS wrapper
-- NLP: Python (SciSpacy, spaCy pipelines), RxNorm mapping
-- Serving: FastAPI/Flask (Python), Go services; REST/WebSockets
-- Data: PostgreSQL, Redis; JSON content catalogs
-- Infra: AWS, Docker, Kubernetes, Helm, GitHub Actions; Shell-based infra repo
-- Testing: Unit/integration, API and performance suites; code reviews
+My [Linkedin](https://www.linkedin.com/in/svetlana-perekrestova) 
 
-## Core stack
-- Languages: Python, Go, Java, Kotlin
-- Backend: Spring Boot, Ktor, Go; REST/WebSockets
-- Messaging/Integration: Kafka, ActiveMQ
-- Cloud/Infra: AWS, Docker, Kubernetes, Helm, CI/CD
-- Data: PostgreSQL, Redis, DynamoDB
-
-## Selected projects
-- [Pill Checker](https://github.com/SPerekrestova/pill_checker) (Python, ML/NLP): medicine pack analysis (ingredients/brands)
-- [BiomedNER](https://github.com/SPerekrestova/BiomedNER) (SciSpacy + RxNorm): biomedical NER and normalization pipeline
-- [github-knowledge-vault](https://github.com/SPerekrestova/github-knowledge-vault) (TypeScript): org knowledge hub for docs, diagrams, API collections
-- [GmailCleaner](https://github.com/SPerekrestova/GmailCleaner) (Python): automated unsubscribe with NLP parsing
-
-
-## Contacts
-
-[Linkedin](https://www.linkedin.com/in/svetlana-perekrestova) 
+## Currently building
+- [Leetcode guided learning MCP](https://github.com/SPerekrestova/leetcode-mcp-extended) Leetcode MCP server for integration with AI
+- [Github KB](https://github.com/SPerekrestova/github-knowledge-vault) For internal company documentation, diagrams, and API collections
+- [Pill checker](https://github.com/SPerekrestova/pill_checker) Medicine pack analysis using ML and NLP to achieve accurate recognition of active ingredients
