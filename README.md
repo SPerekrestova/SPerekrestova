@@ -19,3 +19,6 @@ My [Linkedin](https://www.linkedin.com/in/svetlana-perekrestova)
 - Ski
 - Scuba dive
 - Ride a horse
+
+
+![Visits](https://visitorbadge.vercel.app//api/badge/83ea5f36-4458-4f11-893f-129f050ba564?style=flat&color=ffd700&labelColor=000000)
