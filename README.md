@@ -11,3 +11,11 @@ My [Linkedin](https://www.linkedin.com/in/svetlana-perekrestova)
 - [Leetcode guided learning MCP](https://github.com/SPerekrestova/leetcode-mcp-extended) Leetcode MCP server for integration with AI
 - [Github KB](https://github.com/SPerekrestova/github-knowledge-vault) For internal company documentation, diagrams, and API collections
 - [Pill checker](https://github.com/SPerekrestova/pill_checker) Medicine pack analysis using ML and NLP to achieve accurate recognition of active ingredients
+
+## After work I..
+- Play tennis
+- Do climbing
+- Travel
+- Ski
+- Scuba dive
+- Ride a horse
