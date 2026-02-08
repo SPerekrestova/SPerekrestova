@@ -8,9 +8,22 @@ To achieve this, I'm exploring different programming languages and approaches to
 My [Linkedin](https://www.linkedin.com/in/svetlana-perekrestova) 
 
 ## Currently building
-- [Leetcode guided learning MCP](https://github.com/SPerekrestova/leetcode-mcp-extended) Leetcode MCP server for integration with AI
-- [Github KB](https://github.com/SPerekrestova/github-knowledge-vault) For internal company documentation, diagrams, and API collections
-- [Pill checker](https://github.com/SPerekrestova/pill_checker) Medicine pack analysis using ML and NLP to achieve accurate recognition of active ingredients
+### [Leetcode guided learning MCP](https://github.com/SPerekrestova/leetcode-mcp-extended) 
+Leetcode MCP server for solving leetcode locally with AI
+
+[![npm version](https://img.shields.io/npm/v/@sperekrestova/interactive-leetcode-mcp.svg)](https://www.npmjs.com/package/@sperekrestova/interactive-leetcode-mcp)
+[![npm downloads](https://img.shields.io/npm/dm/@sperekrestova/interactive-leetcode-mcp.svg)](https://www.npmjs.com/package/@sperekrestova/interactive-leetcode-mcp)
+[![GitHub stars](https://img.shields.io/github/stars/SPerekrestova/interactive-leetcode-mcp)](https://github.com/SPerekrestova/interactive-leetcode-mcp)
+
+
+### [Pill checker](https://github.com/SPerekrestova/pillchecker-api)
+Mobile app for medicine pack analysis using ML and NLP to achieve accurate recognition of active ingredient interactions.
+
+Flutter app source code: [Mobile](https://github.com/SPerekrestova/pillchecker-app)
+
+### [Github KB](https://github.com/SPerekrestova/github-knowledge-vault) 
+For internal company documentation, diagrams, and API collections
+
 
 ## After work I..
 - Play tennis
