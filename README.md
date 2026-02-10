@@ -11,6 +11,7 @@ To achieve this, I'm exploring different programming languages and approaches to
 
 - My [Linkedin](https://www.linkedin.com/in/svetlana-perekrestova) 
 - My [CV](https://drive.google.com/file/d/1Bp2DXzmvTcfktIugHQFkvPf7yVLneZJV/view?usp=drive_link)
+- My [Blog](https://sperva.hashnode.dev/)
 
 ## Currently building
 ### [Leetcode guided learning MCP](https://github.com/SPerekrestova/leetcode-mcp-extended) 
