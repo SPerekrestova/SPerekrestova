@@ -2,11 +2,15 @@
 Currently residing in Amsterdam
 
 ## About
-I'm a corporate Java engineer with over 7 years of experience. I am passionate about becoming language-agnostic and developing modern AI-powered tools.
-To achieve this, I'm exploring different programming languages and approaches to create a modern tool.
+I'm a corporate Java software engineer with over 7 years of experience. I am passionate about becoming language-agnostic and developing modern AI-powered tools.
+To achieve this, I'm exploring different programming languages and approaches to create modern tools.
 
-My [Linkedin](https://www.linkedin.com/in/svetlana-perekrestova) 
-My [CV](https://drive.google.com/file/d/1Bp2DXzmvTcfktIugHQFkvPf7yVLneZJV/view?usp=drive_link)
+**9 - 5:** Software engineer in the heart of enterprise-grade high loaded and complex domain systems. End-to-end feature ownership, crafting, testing, deployment, support. Java / Spring / Oracle / PostgreSQL / Modern CI/CD stack / Prompt Engineering;
+
+**5 - 9:** Open source enthusiast, continuous learner and passionate experementator. AI Engineering / LLM hands on, crafting pet projects in Kotlin / Go / Python, building apps from scratch, exploring MCP servers, Agents, AI SDKs, using Hugging Face models, NLP.
+
+- My [Linkedin](https://www.linkedin.com/in/svetlana-perekrestova) 
+- My [CV](https://drive.google.com/file/d/1Bp2DXzmvTcfktIugHQFkvPf7yVLneZJV/view?usp=drive_link)
 
 ## Currently building
 ### [Leetcode guided learning MCP](https://github.com/SPerekrestova/leetcode-mcp-extended) 
