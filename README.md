@@ -6,6 +6,7 @@ I'm a corporate Java engineer with over 7 years of experience. I am passionate a
 To achieve this, I'm exploring different programming languages and approaches to create a modern tool.
 
 My [Linkedin](https://www.linkedin.com/in/svetlana-perekrestova) 
+My [CV](https://drive.google.com/file/d/1Bp2DXzmvTcfktIugHQFkvPf7yVLneZJV/view?usp=drive_link)
 
 ## Currently building
 ### [Leetcode guided learning MCP](https://github.com/SPerekrestova/leetcode-mcp-extended) 
