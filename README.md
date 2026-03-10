@@ -30,7 +30,7 @@ Leetcode MCP server for solving leetcode locally with AI
 ### [💊 Pill checker](https://github.com/SPerekrestova/pillchecker-api)
 Mobile app for medicine pack analysis using ML and NLP to achieve accurate recognition of active ingredient interactions.
 
-Progressive Web app source code: [Web app](https://github.com/SPerekrestova/pillchecker-app)
+IOS App: [App](https://github.com/SPerekrestova/pillchecker-app)
 
 ### [📑 Github KB](https://github.com/SPerekrestova/github-knowledge-vault) 
 For internal company documentation, diagrams, and API collections
