@@ -10,10 +10,15 @@ To achieve this, I'm exploring different programming languages and approaches to
 **5 - 9:** Open source enthusiast, continuous learner and passionate experementator. AI Engineering / LLM hands on, crafting pet projects in Kotlin / Go / Python, building apps from scratch, exploring MCP servers, Agents, AI SDKs, using Hugging Face models, NLP.
 
 - [My Linkedin 💼](https://www.linkedin.com/in/svetlana-perekrestova) 
-- [My CV 📄](https://drive.google.com/file/d/1Bp2DXzmvTcfktIugHQFkvPf7yVLneZJV/view?usp=drive_link)
-- [My Articles ✏️](https://sperva.hashnode.dev/)
+- [My CV 📄](https://drive.google.com/file/d/14OggrbI1H6Z_ErDFLrkCKhx88wqUWZwz/view?usp=drive_link)
+- [My Articles ✏️](https://sperva.hashnode.dev)
 
 ## Currently building
+
+### [💊 Pill checker](https://github.com/SPerekrestova/pillchecker-api)
+Mobile app for medicine pack analysis using ML and NLP to achieve accurate recognition of active ingredient interactions.
+
+IOS App: [App](https://github.com/SPerekrestova/pillchecker-app)
 
 ### [🧹 Private on-device IOS gallery cleaner](https://github.com/SPerekrestova/iphone-cleaner)
 A free iOS app that finds junk in your photo library — duplicates, blurry shots, screenshots, and more — and lets you swipe through them like cards to quickly clean up.
@@ -26,11 +31,6 @@ Leetcode MCP server for solving leetcode locally with AI
 [![npm downloads](https://img.shields.io/npm/dm/@sperekrestova/interactive-leetcode-mcp.svg)](https://www.npmjs.com/package/@sperekrestova/interactive-leetcode-mcp)
 [![GitHub stars](https://img.shields.io/github/stars/SPerekrestova/interactive-leetcode-mcp)](https://github.com/SPerekrestova/interactive-leetcode-mcp)
 
-
-### [💊 Pill checker](https://github.com/SPerekrestova/pillchecker-api)
-Mobile app for medicine pack analysis using ML and NLP to achieve accurate recognition of active ingredient interactions.
-
-IOS App: [App](https://github.com/SPerekrestova/pillchecker-app)
 
 ### [📑 Github KB](https://github.com/SPerekrestova/github-knowledge-vault) 
 For internal company documentation, diagrams, and API collections
