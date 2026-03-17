@@ -10,7 +10,7 @@ To achieve this, I'm exploring different programming languages and approaches to
 **5 - 9:** Open source enthusiast, continuous learner and passionate experementator. AI Engineering / LLM hands on, crafting pet projects in Kotlin / Go / Python, building apps from scratch, exploring MCP servers, Agents, AI SDKs, using Hugging Face models, NLP.
 
 - [My Linkedin 💼](https://www.linkedin.com/in/svetlana-perekrestova) 
-- [My CV 📄](https://drive.google.com/file/d/14OggrbI1H6Z_ErDFLrkCKhx88wqUWZwz/view?usp=drive_link)
+- [My CV 📄](https://drive.google.com/file/d/1NpMeguso6hHV4avE1TfIpPoU2y6tiy0I/view?usp=sharing)
 - [My Articles ✏️](https://sperva.hashnode.dev)
 
 ## Currently building
