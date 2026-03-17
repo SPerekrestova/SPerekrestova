@@ -15,6 +15,9 @@ To achieve this, I'm exploring different programming languages and approaches to
 
 ## Currently building
 
+### [🥇 the-next-interview](https://github.com/SPerekrestova/the-next-interview)
+Google AI Agents Benelux Hackathon winner 🥇. Platform that takes you from beginner to job ready.
+
 ### [💊 Pill checker](https://github.com/SPerekrestova/pillchecker-api)
 Mobile app for medicine pack analysis using ML and NLP to achieve accurate recognition of active ingredient interactions.
 
